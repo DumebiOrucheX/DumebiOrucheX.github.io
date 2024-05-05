@@ -1,4 +1,4 @@
-# DumebiOrucheX.github.io
+# Chukwudumebi Oruche
 
 Welcome to my portfolio website! This repository contains the source code for my personal portfolio website. Feel free to explore the code and learn more about me and my projects.
 
