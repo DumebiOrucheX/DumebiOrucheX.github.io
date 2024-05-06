@@ -7,6 +7,7 @@ Welcome to my portfolio website! This repository contains the source code for my
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Contact Me](#contact-me)
+- [Additional Technologies](#additional-technologies) <!-- New section -->
 
 ## About Me
 
@@ -33,6 +34,16 @@ You can reach out to me via email or phone:
 - Phone: +234 08141772821
 
 Feel free to contact me if you have any inquiries, project opportunities, or just want to connect!
+
+## Additional Technologies <!-- New section -->
+
+Here are some additional technologies I'm familiar with:
+
+- Express
+- Bulma
+- Appwrite
+- Supabase
+- Node.js
 
 ---
 
