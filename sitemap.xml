@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created by Chukwudumebi Oruche	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://dumebioruchex.github.io/</loc>
+	<lastmod>2024-05-07T23:52:12+01:00</lastmod>
+	<changefreq>always</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://dumebioruchex.github.io/index.html</loc>
+	<lastmod>2024-05-07T23:52:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://dumebioruchex.github.io/about.html</loc>
+	<lastmod>2024-05-07T23:52:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://dumebioruchex.github.io/services.html</loc>
+	<lastmod>2024-05-07T23:52:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://dumebioruchex.github.io/portfolio.html</loc>
+	<lastmod>2024-05-07T23:52:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://dumebioruchex.github.io/contact.html</loc>
+	<lastmod>2024-05-07T23:52:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
